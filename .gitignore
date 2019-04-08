@@ -2,3 +2,4 @@
 *.ptt
 *.txt
 __pycache__
+DP/.ipynb_checkpoints/*
